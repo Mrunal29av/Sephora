@@ -1,0 +1,822 @@
+{
+  
+
+  "eyes": [
+    {
+      "id": 1,
+      "label": "SEPHORA COLLECTION",
+      "brand": "SEPHORA COLLECTION",
+      "name": "PRO Shadow Brush #15",
+      "price": 2000,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494278456/pUhN0H_xuH4-000000000494278456_1.jpg"
+    },
+    {
+      "id": 2,
+      "label": "SEPHORA COLLECTION",
+      "brand": "SEPHORA COLLECTION",
+      "name": "PRO Crease Brush #19",
+      "price": 2200,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/benefit-cosmetics/7004374/0/F0eTBh5Jk4-Precisely_My_Brow_Pencil_open_b_no_reflection_5_RGB_WEB_5af8bf1ec929103c19193b93a114e875f579f2c0_1523777491.png"
+    },
+    {
+      "id": 3,
+      "label": "SEPHORA COLLECTION",
+      "brand": "SEPHORA COLLECTION",
+      "name": "PRO Shadow Brush #18",
+      "price": 2000,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494274225/5xuYN1fVBk-000000000494274225_1.png"
+    },
+    {
+      "id": 4,
+      "label": "SEPHORA COLLECTION",
+      "brand": "SEPHORA COLLECTION",
+      "name": "Essential Brush - 08 Eyeshadow",
+      "price": 1300,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000493860578/gAgZSjYsd2-000000000493860578_1.png"
+    },
+    {
+      "id": 5,
+      "label": "SEPHORA COLLECTION",
+      "brand": "SEPHORA COLLECTION",
+      "name": "Essential Brush - 09 Crease",
+      "price": 1300,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494273917/UlfDXoYfML-000000000494273917_1.png"
+    },
+    {
+      "id": 6,
+      "label": "SEPHORA COLLECTION",
+      "brand": "SEPHORA COLLECTION",
+      "name": "Essential Brush - 10 Smudger",
+      "price": 1300,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494513569/zJjlHIVtx7j-000000000494513569_1.jpg"
+    },
+    {
+      "id": 7,
+      "label": "SEPHORA COLLECTION",
+      "brand": "SEPHORA COLLECTION",
+      "name": "Precision Eyeliner Brush #23",
+      "price": 1400,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494513273/JAgCoCHGiS-000000000494513273_1.jpg"
+    },
+    {
+      "id": 8,
+      "label": "SEPHORA COLLECTION",
+      "brand": "SEPHORA COLLECTION",
+      "name": "PRO Brow Brush #20",
+      "price": 1500,
+      "oldPrice": 1700,
+      "discount": "12%",
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494433018/zJezM_DTPx-000000000494433018_1.jpg"
+    },
+    {
+      "id": 9,
+      "label": "SEPHORA COLLECTION",
+      "brand": "SEPHORA COLLECTION",
+      "name": "Classic Shadow Brush",
+      "price": 1100,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/lanc%EF%BF%BDme/HPRJ9005FUV-1/0/9UfEkTwWgY-1.jpg"
+    },
+    {
+      "id": 10,
+      "label": "SEPHORA COLLECTION",
+      "brand": "SEPHORA COLLECTION",
+      "name": "Smudge Brush #11",
+      "price": 1350,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000493712609/fiv3OEJFV3-000000000493712609_1.png"
+    }
+  ],
+  "Face": [
+    {
+      "id": 1,
+      "label": "NEW",
+      "brand": "RARE BEAUTY",
+      "name": "Soft Pinch Liquid Blush",
+      "price": 3200,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494273784/mMfhGFeri-000000000494273784_1.png"
+    },
+    {
+      "id": 2,
+      "label": "NEW | SEPHORA EXCLUSIVE",
+      "brand": "RARE BEAUTY",
+      "name": "Soft Pinch Matte Bouncy Blush • 6.4g",
+      "price": 3400,
+      "oldPrice": 4550,
+      "discount": "30%",
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/original/000000000494587031/YgzSJ9Xab7-000000000494587031_1.jpg"
+    },
+    {
+      "id": 3,
+      "label": "SEPHORA EXCLUSIVE",
+      "brand": "SEPHORA COLLECTION",
+      "name": "Best Skin Ever High Coverage Concealer",
+      "price": 1650,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/original/000000000494277050/8JrFhLTcPt-000000000494277050_1.png"
+    },
+    {
+      "id": 4,
+      "label": "NEW | SEPHORA EXCLUSIVE",
+      "brand": "RARE BEAUTY",
+      "name": "Warm Wishes Effortless Bronzer Stick",
+      "price": 3300,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/original/000000000494273787/13KFl6nvE_-000000000494273787_1.png"
+    },
+    {
+      "id": 5,
+      "label": "",
+      "brand": "MAKE UP FOR EVER",
+      "name": "HD Skin Face Essentials Palette • 25.8g",
+      "price": 7500,
+      "oldPrice": 8000,
+      "discount": "13%",
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494434326/HnFbnH85zWE-000000000494434326_1.jpg"
+    }
+  ],
+  "lips": [
+    {
+      "id": 1,
+      "label": "NEW",
+      "brand": "RARE BEAUTY",
+      "name": "Soft Pinch Tinted Lip Oil",
+      "price": 2400,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494573440/aTxqP9aX_-000000000494573440_1.jpg"
+    },
+    {
+      "id": 2,
+      "label": "SEPHORA EXCLUSIVE",
+      "brand": "HUDA BEAUTY",
+      "name": "Liquid Matte Lipstick",
+      "price": 2200,
+      "oldPrice": 2600,
+      "discount": "15%",
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494573440/aTxqP9aX_-000000000494573440_1.jpg"
+    },
+    {
+      "id": 3,
+      "label": "",
+      "brand": "FENTY BEAUTY",
+      "name": "Gloss Bomb Universal Lip Luminizer",
+      "price": 1950,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/sephora-collection/7016127/0/C4jyq9M2Nb-1_Product_3378872136996-Sephora-Collection-Outrageous-Plump-Lip-Gloss-01-Universal_99d6f6ad476c4133a5ea8e58526679744ebc3bb1_1620368777.png"
+    },
+    {
+      "id": 4,
+      "label": "NEW",
+      "brand": "RARE BEAUTY",
+      "name": "Kind Words Matte Lipstick",
+      "price": 2600,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494273811/9d5iWXDYlug-000000000494273811_1.jpg"
+    },
+    {
+      "id": 5,
+      "label": "SEPHORA COLLECTION",
+      "brand": "SEPHORA COLLECTION",
+      "name": "Cream Lip Stain Liquid Lipstick",
+      "price": 1450,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494434245/7iUL-Pb_v8-000000000494434245_1.jpg"
+    },
+    {
+      "id": 6,
+      "label": "",
+      "brand": "MAC COSMETICS",
+      "name": "Retro Matte Lipstick - Ruby Woo",
+      "price": 2900,
+      "oldPrice": 3400,
+      "discount": "15%",
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494447578/nZht5Q-OOr-000000000494447578_1.jpg"
+    },
+    {
+      "id": 7,
+      "label": "LIMITED EDITION",
+      "brand": "DIOR",
+      "name": "Lip Soufflé Matte Cream Lipstick",
+      "price": 2500,
+      "oldPrice": 2900,
+      "discount": "14%",
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494278050/rPWLemVQC5-000000000494278050_1.png"
+    },
+    {
+      "id": 8,
+      "label": "",
+      "brand": "TOO FACED",
+      "name": "Melted Matte Liquid Lipstick",
+      "price": 2700,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494513031/Ru0UjwM8v-W-000000000494513031_1.jpg"
+    },
+    {
+      "id": 9,
+      "label": "NEW | SEPHORA EXCLUSIVE",
+      "brand": "DIOR",
+      "name": "Lip Contour 2.0 Automatic Matte Pencil",
+      "price": 1900,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494284368/RTL5zEJMbhy-000000000494284368_1.jpg"
+    },
+    {
+      "id": 10,
+      "label": "",
+      "brand": "BENEFIT COSMETICS",
+      "name": "Benetint Lip & Cheek Tint",
+      "price": 2200,
+      "oldPrice": 2450,
+      "discount": "10%",
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494590517/HQ5fH3wXiY08-000000000494590517_1.jpg"
+    }
+  ],
+  "nails": [
+    {
+      "id": 1,
+      "label": "SEPHORA COLLECTION",
+      "brand": "SEPHORA COLLECTION",
+      "name": "Color Hit Mini Nail Polish",
+      "price": 350,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494284672/yFRe3SACJa-000000000494284672_1.jpg"
+    },
+    {
+      "id": 2,
+      "label": "NEW",
+      "brand": "KAY BEAUTY",
+      "name": "Matte Nail Enamel - 9ml",
+      "price": 250,
+      "oldPrice": 299,
+      "discount": "17%",
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494513203/q3-60xapSm95-000000000494513203_01.jpg"
+    },
+    {
+      "id": 3,
+      "label": "",
+      "brand": "OPI",
+      "name": "Nail Lacquer - Infinite Shine",
+      "price": 850,
+      "oldPrice": 999,
+      "discount": "15%",
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494579202/MUPt_tOfNaC-000000000494579202_1.jpg"
+    },
+    {
+      "id": 4,
+      "label": "LIMITED EDITION",
+      "brand": "FACES CANADA",
+      "name": "Splash Nail Enamel - 8ml",
+      "price": 130,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000493651258/7ldNYUtE7gbu-000000000493651258_1.jpg"
+    },
+    {
+      "id": 5,
+      "label": "SEPHORA EXCLUSIVE",
+      "brand": "SALLY HANSEN",
+      "name": "Insta-Dri Nail Color",
+      "price": 499,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494446964/eFB0IzKgVjGd-000000000494446964_1.jpg"
+    },
+    {
+      "id": 6,
+      "label": "",
+      "brand": "LAKME",
+      "name": "Absolute Gel Stylist Nail Color",
+      "price": 400,
+      "oldPrice": 500,
+      "discount": "20%",
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494512029/JuX6JQTmlnZR-000000000494512029_1.jpg"
+    },
+    {
+      "id": 7,
+      "label": "NEW",
+      "brand": "KIKO MILANO",
+      "name": "Power Pro Nail Lacquer",
+      "price": 550,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494284661/KHxJ64UvMh-000000000494284661_1.jpg"
+    },
+    {
+      "id": 8,
+      "label": "",
+      "brand": "MAYBELLINE",
+      "name": "Color Show Nail Polish",
+      "price": 190,
+      "oldPrice": 220,
+      "discount": "14%",
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494284665/5kQpCr7N5-000000000494284665_1.jpg"
+    },
+    {
+      "id": 9,
+      "label": "SEPHORA EXCLUSIVE",
+      "brand": "NAILS INC.",
+      "name": "Plant Power Vegan Nail Polish",
+      "price": 1250,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000493651272/l2pxI5MHDRba-000000000493651272_1.jpg"
+    },
+    {
+      "id": 10,
+      "label": "",
+      "brand": "CHAMBOR",
+      "name": "Gel Effect Nail Lacquer",
+      "price": 325,
+      "oldPrice": null,
+      "discount": null,
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000493651222/iRMpyC8Vm3f-000000000493651222_1.jpg"
+    }
+  ],
+
+  "skincare":[
+{
+    "label": "BESTSELLER",
+    "brand": "SULWHASOO",
+    "title": "First Care Activating Serum VI • 8ml",
+    "price": "₹850",
+    "originalPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494474612/tVsmnUGb8H-000000000494474612_1.jpg"
+  },
+  {
+    "label": "",
+    "brand": "SULWHASOO",
+    "title": "Concentrated Ginseng Rejuvenating Serum • 15ml",
+    "price": "₹5,000",
+    "originalPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494274235/4jekJ6Rj9E-000000000494274235_1.png"
+  },
+  {
+    "label": "",
+    "brand": "SULWHASOO",
+    "title": "Concentrated Ginseng Rejuvenating Cream • 10ml",
+    "price": "₹3,800",
+    "originalPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494513342/vCOSv4_yu-000000000494513342_1.jpg"
+  },
+  {
+    "label": "",
+    "brand": "THE ORDINARY",
+    "title": "Niacinamide 10% + Zinc 1% • 30ml",
+    "price": "₹600",
+    "originalPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/mario-badescu/7020153/0/P0wFEhKewp-153_MarioBadescu_WEB_add61009b2d3fa671aa1213d986ace0ff63437be_1523776363.png"
+  },
+  {
+    "label": "",
+    "brand": "THE ORDINARY",
+    "title": "Alpha Arbutin 2% + HA • 30ml",
+    "price": "₹1,200",
+    "originalPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494513343/oifv4Stc4n-000000000494513343_1.jpg"
+  },
+  {
+    "label": "",
+    "brand": "THE ORDINARY",
+    "title": "Multi‑Peptide Serum for Hair Density • 60ml",
+    "price": "₹2,150",
+    "originalPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494474654/1Yj86oHGYCI-000000000494474654_1.jpg"
+  },
+  {
+    "label": "TOP PICK",
+    "brand": "VINO PURE",
+    "title": "Vinopure Instant Brightening Moisturizer • 50ml",
+    "price": "₹4,150",
+    "originalPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000493286923/7HuFixk_pDT-000000000493286923_1.jpg"
+  },
+  {
+    "label": "",
+    "brand": "VINO PURE",
+    "title": "Nourishing Moisturizer Cream • 50ml",
+    "price": "₹1,800",
+    "originalPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494238495/wyerqqfPnn-000000000494238495_1.jpg"
+  },
+  {
+    "label": "NEW",
+    "brand": "FARMACY",
+    "title": "10% Waterless Vitamin C Serum • 30ml",
+    "price": "₹4,747",
+    "originalPrice": "₹5,275",
+    "discount": "10%",
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494590799/HVgV1Y9r0r-000000000494590799_1.jpg"
+  },
+  {
+    "label": "",
+    "brand": "FARMACY",
+    "title": "Daily Greens Oil‑Free Gel Moisturizer • 50ml",
+    "price": "₹4,475",
+    "originalPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494513587/VIung-K8gfO-000000000494513587_1.jpg"
+  }
+
+
+  ],
+
+  "bathandbody":
+  [
+  {
+    "id": 1,
+    "label": "SEPHORA EXCLUSIVE",
+    "brand": "SEPHORA COLLECTION",
+    "name": "Fizzing Star Bath Cube",
+    "price": 200,
+    "oldPrice": 2100,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494274024/N8tbTp7Spc-000000000494274024_1.png",
+    "category": "bath cube"
+  },
+  {
+    "id": 2,
+    "label": "",
+    "brand": "DIOR",
+    "name": "Sauvage Deodorant Spray • 150ml",
+    "price": 4100,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/dior/7000484/0/mIS9CHgmik-1_Product_176408-Dior-Sauvage-Deodorant-Spray-150ml_2a7d116be853d9d71912d5a657f35a8532c5ed31_1555309217.png",
+    "category": "deodorant"
+  },
+  {
+    "id": 3,
+    "label": "",
+    "brand": "SOL DE JANEIRO",
+    "name": "Brazilian 4 Play Moisturizing Shower Cream-Gel • 385ml",
+    "price": 2600,
+    "oldPrice": 2665,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494433960/wyxAB2HoJW4-000000000494433960_1.jpg",
+    "category": "shower gel"
+  },
+  {
+    "id": 4,
+    "label": "SEPHORA EXCLUSIVE",
+    "brand": "SEPHORA COLLECTION",
+    "name": "Exfoliating Body Granita Scrub",
+    "price": 1200,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494274019/YtJoKoR3rQ-000000000494274019_1.png",
+    "category": "body scrub"
+  },
+  {
+    "id": 5,
+    "label": "",
+    "brand": "CAUDALIE",
+    "name": "Vinotherapist Hand and Nail Repair Cream • 75ml",
+    "price": 1100,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494274016/IH--WnwlOO-000000000494274016_1.png",
+    "category": "hand cream"
+  },
+  {
+    "id": 6,
+    "label": "",
+    "brand": "SEPHORA COLLECTION",
+    "name": "Cotton Flower Body Lotion • 200ml",
+    "price": 950,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/dior/7023086/0/WIpJb4JNLS-1_Product_3348901553254-Dior-Sauvage-Shower-Gel-250ml_7bfc4d7cf2512614de24420f34a4b4eec3f57bf8_1643952510.png",
+    "category": "body lotion"
+  },
+  {
+    "id": 7,
+    "label": "",
+    "brand": "DIOR",
+    "name": "Sauvage Shower Gel • 250ml",
+    "price": 4600,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/dior/7005060/0/ZmFITvJcbh-1_Product_3348901333139-Dior-Miss-Dior-Deodorant-100ml_1cb847585156c31104337ba3628855a74c75caf5_1576744544.png",
+    "category": "shower gel"
+  },
+  {
+    "id": 8,
+    "label": "",
+    "brand": "DIOR",
+    "name": "Miss Dior Moisturizing Body Milk • 200ml",
+    "price": 4800,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494433989/QrHnNeTsA9c-000000000494433989_1.jpg",
+    "category": "body milk"
+  },
+  {
+    "id": 9,
+    "label": "",
+    "brand": "SEPHORA COLLECTION",
+    "name": "Almond Foot Mask",
+    "price": 310,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494474661/gHD_JTUAckc-000000000494474661_1.jpeg",
+    "category": "foot mask"
+  },
+  {
+    "id": 10,
+    "label": "",
+    "brand": "SOL DE JANEIRO",
+    "name": "Bom Dia Bright Body Cream • 75ml",
+    "price": 2150,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494284939/TP4vMw02L-000000000494284939_1.jpg",
+    "category": "body cream"
+  }
+],
+"fragrance":
+[
+  {
+    "id": 1,
+    "label": "",
+    "brand": "DIOR",
+    "name": "Miss Dior Eau de Parfum - 50ml",
+    "price": 9800,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494434734/BynZbIKxRVi-000000000494434734_1.jpg",
+    "category": "fragrance"
+  },
+  {
+    "id": 2,
+    "label": "",
+    "brand": "YVES SAINT LAURENT",
+    "name": "Libre Eau De Parfum - 50ml",
+    "price": 9000,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000491338610/rJcQLGvIg-000000000491338610_1.jpg",
+    "category": "fragrance"
+  },
+  {
+    "id": 3,
+    "label": "",
+    "brand": "ARMANI BEAUTY",
+    "name": "My Way Eau De Parfum - 50ml",
+    "price": 8500,
+    "oldPrice": 9100,
+    "discount": "7%",
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000491338573/6ja7TcTj5a-000000000491338573_1.jpg",
+    "category": "fragrance"
+  },
+  {
+    "id": 4,
+    "label": "",
+    "brand": "VERSACE",
+    "name": "Dylan Blue Pour Femme Eau De Parfum - 50ml",
+    "price": 7100,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000493826058/-LxjXkk3I-000000000493826058_1.jpg",
+    "category": "fragrance"
+  },
+  {
+    "id": 5,
+    "label": "",
+    "brand": "CAROLINA HERRERA",
+    "name": "Good Girl Eau De Parfum - 50ml",
+    "price": 8800,
+    "oldPrice": 9200,
+    "discount": "4%",
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000493859524/ce3MUxKpGRP-000000000493859524_1.jpg",
+    "category": "fragrance"
+  },
+  {
+    "id": 6,
+    "label": "",
+    "brand": "GUCCI",
+    "name": "Bloom Eau De Parfum - 50ml",
+    "price": 9700,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/tom-ford-beauty/DYOQ0CRA8LA-3/0/eTXBeC_YLG-1.jpg",
+    "category": "fragrance"
+  },
+  {
+    "id": 7,
+    "label": "",
+    "brand": "BURBERRY",
+    "name": "Her Eau De Parfum - 50ml",
+    "price": 8900,
+    "oldPrice": 9400,
+    "discount": "5%",
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/azzaro/0HWHBQ5G325-1/0/fXSpsgW_dr-1.jpg",
+    "category": "fragrance"
+  },
+  {
+    "id": 8,
+    "label": "",
+    "brand": "MAISON MARGIELA",
+    "name": "Replica Jazz Club Eau De Toilette - 30ml",
+    "price": 5900,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000490104866/_NHaeWCa-Fw-000000000490104866_1.jpg",
+    "category": "fragrance"
+  },
+  {
+    "id": 9,
+    "label": "",
+    "brand": "CALVIN KLEIN",
+    "name": "CK One Eau De Toilette - 100ml",
+    "price": 4400,
+    "oldPrice": 4800,
+    "discount": "8%",
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000493716850/xhQvqw5Zw4-000000000493716850_1.jpg",
+    "category": "fragrance"
+  },
+  {
+    "id": 10,
+    "label": "",
+    "brand": "TOM FORD",
+    "name": "Black Orchid Eau De Parfum - 50ml",
+    "price": 12000,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000493162477/jvTR0xgFo7l-000000000493162477_1.jpg",
+    "category": "fragrance"
+  },
+  {
+    "id": 11,
+    "label": "",
+    "brand": "CHANEL",
+    "name": "Coco Mademoiselle Eau De Parfum - 50ml",
+    "price": 10500,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000491516071/2Gj8xcFXhZr-000000000491516071_1.jpg",
+    "category": "fragrance"
+  },
+  {
+    "id": 12,
+    "label": "",
+    "brand": "JO MALONE",
+    "name": "English Pear & Freesia Cologne - 30ml",
+    "price": 7200,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000493860107/l8PBW1q6E0-000000000493860107_1.png",
+    "category": "fragrance"
+  }
+],
+"clean":
+[
+  {
+    "id": 1,
+    "label": "",
+    "brand": "DRUNK ELEPHANT",
+    "name": "Protini Polypeptide Cream • 50ml",
+    "price": 6200,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494277050/8JrFhLTcPt-000000000494277050_1.png",
+    "category": "moisturizer"
+  },
+  {
+    "id": 2,
+    "label": "",
+    "brand": "YOUTH TO THE PEOPLE",
+    "name": "Superfood Antioxidant Cleanser • 237ml",
+    "price": 2700,
+    "oldPrice": 2990,
+    "discount": "10%",
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494282116/PW5gqtzAKi-000000000494282116_1.png",
+    "category": "cleanser"
+  },
+  {
+    "id": 3,
+    "label": "",
+    "brand": "TATCHA",
+    "name": "The Dewy Skin Cream • 50ml",
+    "price": 7100,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494277031/rQjwLatIgxt-000000000494277031_1.jpg",
+    "category": "moisturizer"
+  },
+  {
+    "id": 4,
+    "label": "",
+    "brand": "BIOSSANCE",
+    "name": "Squalane + Vitamin C Rose Oil • 30ml",
+    "price": 4600,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494274243/OWVUeMCprX2-000000000494274243_1.jpg",
+    "category": "facial oil"
+  },
+  {
+    "id": 5,
+    "label": "",
+    "brand": "SUMMER FRIDAYS",
+    "name": "Jet Lag Mask • 64g",
+    "price": 4100,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494273959/frxbO_hcDH-000000000494273959_1.png",
+    "category": "mask"
+  },
+  {
+    "id": 6,
+    "label": "SEPHORA EXCLUSIVE",
+    "brand": "ILIA",
+    "name": "Balmy Tint Hydrating Lip Balm",
+    "price": 2200,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/caudalie/7024431/0/B9K3wya7i4-1_Product_3522930003618-Caudalie-Vinotherapist-Hand-Nail-Cream-75ml_df7a3f4852ad8aa4c231d777e8c64d275b8d9567_1659282368.png",
+    "category": "lip balm"
+  },
+  {
+    "id": 7,
+    "label": "",
+    "brand": "FARMACY",
+    "name": "Green Clean Makeup Meltaway Cleansing Balm • 100ml",
+    "price": 3900,
+    "oldPrice": 4200,
+    "discount": "7%",
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000493286923/7HuFixk_pDT-000000000493286923_1.jpg",
+    "category": "cleansing balm"
+  },
+  {
+    "id": 8,
+    "label": "",
+    "brand": "RARE BEAUTY",
+    "name": "Always An Optimist Pore Diffusing Primer • 28ml",
+    "price": 3200,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/sephora-collection/7021133/0/1vMfo0zk47-1_Product_3378872183211-Sephora-Collection-Outrageous-Plump-Extreme-01-Fever_7257a2293d678e749fb5ddec84758862a8f0279f_1648469255.png",
+    "category": "primer"
+  },
+  {
+    "id": 9,
+    "label": "",
+    "brand": "KORA ORGANICS",
+    "name": "Noni Glow Face Oil • 30ml",
+    "price": 5200,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494274016/IH--WnwlOO-000000000494274016_1.png",
+    "category": "facial oil"
+  },
+  {
+    "id": 10,
+    "label": "",
+    "brand": "SAIE",
+    "name": "Glowy Super Gel Dewy Highlighter",
+    "price": 2500,
+    "oldPrice": null,
+    "discount": null,
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/resize-w:360/000000000494277396/KD59GKn3DB--000000000494277396_1.jpg",
+    "category": "highlighter"
+  }
+]
+
+
+}
+

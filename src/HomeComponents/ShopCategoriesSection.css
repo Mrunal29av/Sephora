@@ -1,0 +1,75 @@
+.shop-categories-section {
+  background-color: #ffffff;
+  padding: 40px 60px;
+  text-align: center;
+}
+
+.category-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 40px;
+}
+
+.category-buttons button {
+  background: transparent;
+  border: 1px solid black;
+  padding: 10px 20px;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.category-buttons button:hover {
+  background-color: black;
+  color: white;
+}
+
+.section-title {
+  font-family: 'Georgia', serif;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.shop-categories-container {
+  background-color: #ac9b9b;
+  padding: 30px 20px;
+}
+
+.category-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+}
+
+.category-card {
+  background-color: white;
+  border: 1px solid #eee;
+  padding: 20px 15px;
+  width: 130px;
+  transition: transform 0.2s ease;
+}
+
+.category-card:hover {
+  transform: translateY(-5px);
+}
+
+.category-card img {
+  height: 80px;
+  width: auto;
+  object-fit: contain;
+  margin-bottom: 12px;
+}
+
+.category-card p {
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin: 0;
+  text-transform: uppercase;
+}

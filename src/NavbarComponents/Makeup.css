@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+.makeup-container {
+  padding: 20px 40px;
+  background-color: #fff;
+  max-width: 1400px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.makeup-banner img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.shop-makeup-section {
+  background: linear-gradient(to right, #e49d85, #f8926d);
+  padding: 40px 20px;
+  border-radius: 10px;
+  text-align: center;
+  height: 200px;
+}
+
+.makeup-title {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.makeup-subtitle {
+  font-size: 16px;
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+.makeup-category-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.makeup-icon-card {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 15px;
+  width: 120px;
+  text-align: center;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, border 0.2s;
+  cursor: pointer;
+  border: 2px solid transparent;
+  color: black;
+  text-decoration: none; 
+  font-family: 'Poppins', sans-serif;
+}
+
+.makeup-icon-card:hover {
+  transform: scale(1.05);
+}
+
+.makeup-icon-card.active {
+  border: 2px solid #e91e63;
+}
+
+.makeup-icon-card img {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
+.makeup-icon-card p {
+  font-weight: bold;
+  font-size: 12px;
+  margin: 0;
+  color: black;
+  text-decoration: none; 
+}

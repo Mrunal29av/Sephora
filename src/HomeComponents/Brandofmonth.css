@@ -1,0 +1,33 @@
+.brandofmonth-wrapper {
+  max-width: 1320px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  padding: 0 30px;
+  box-sizing: border-box;
+  text-align: center; /* Ensures inner content like headings or inline elements are centered */
+}
+
+.brandofmonth {
+  width: 100%;
+  display: flex;
+  justify-content: center; /* Centers the image inside the box */
+  overflow: hidden;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.section-title {
+  font-size: 26px;
+  text-align: center;
+  font-family: 'Georgia', serif;
+  margin-bottom: 30px;
+  color: #000;
+}
+
+.brandimg {
+  width: 100%;
+  max-width: 1400px; 
+  height: 550px;
+  object-fit: cover;
+  border-radius: 8px;
+}

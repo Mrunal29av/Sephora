@@ -1,0 +1,12 @@
+.auto-carousel {
+  width: 100%;
+  overflow: hidden;
+  height: auto;
+  position: relative;
+}
+
+.carousel-image {
+  width: 100%;
+  border-radius: 10px;
+  transition: opacity 0.5s ease-in-out;
+}

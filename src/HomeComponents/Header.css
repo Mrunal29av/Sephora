@@ -1,0 +1,41 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20px;
+  background-color: white;
+  border-bottom: 1px solid #ddd;
+}
+
+.logo {
+  font-size: 32px;
+  font-weight: bold;
+  letter-spacing: 4px;
+}
+
+.search-bar {
+  display: flex;
+  flex: 1;
+  max-width: 600px;
+  margin: 0 30px;
+}
+
+.search-bar input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #aaa;
+  border-right: none;
+}
+
+.search-bar button {
+  padding: 10px 15px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.shipping {
+  font-size: 14px;
+  font-weight: bold;
+}

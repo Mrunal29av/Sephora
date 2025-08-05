@@ -1,0 +1,61 @@
+.shop-brand-section {
+  background-color: white;
+}
+
+.section-title {
+  font-size: 26px;
+  text-align: center;
+  font-family: 'Georgia', serif;
+  margin-bottom: 30px;
+  color: #000;
+}
+
+.brand-logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 60px;
+  margin-bottom: 50px;
+}
+
+.brand-card {
+  width: 150px;
+  height: 100px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s;
+}
+
+.brand-card img {
+  max-width: 100%;
+  max-height: 60px;
+  object-fit: contain;
+}
+
+.brand-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+
+.trending-images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px;
+}
+
+.trending-img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 8px;
+}
+
+.trending-img:hover {
+  transform: scale(1.03);
+}

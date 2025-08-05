@@ -1,0 +1,57 @@
+.footer {
+  color: #000;
+  padding: rem;
+  font-family: sans-serif;
+  border-top: 1px solid #ddd;
+  margin-left: 50px;
+  align-items: center;
+}
+
+.footer-sections {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer-column {
+  flex: 1;
+  min-width: 200px;
+  margin: 1rem;
+}
+
+.footer-column h4 {
+  font-size: 16px;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+.footer-column p {
+  margin: 6px 0;
+  font-size: 14px;
+}
+
+.footer-column button {
+  background: black;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.social-icons i {
+  font-size: 18px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.payment-icons img {
+  width: 40px;
+  margin: 5px 5px 0 0;
+}
+
+.footer-copy {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 13px;
+}
